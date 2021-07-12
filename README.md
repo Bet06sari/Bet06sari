@@ -1,4 +1,4 @@
-### 👋👋 Hi Everyone, this is the place where i show what i am working On !
+### 👋👋 Hi Everyone, this is the place where I show - what I am working On !
 
 
 
