@@ -3,9 +3,8 @@
 
 
 
-- 🔭 I’m currently working on ... C#
-- 🌱 I’m currently learning ... Game Development
-- 💬 Ask me about ... anything
-- 📫 How to reach me: ... [Linkedin Profile](https://www.linkedin.com/in/betülsari/)
-- ⚡ Fun fact: ... Games
+- 🔭 I’m currently working on backend
+- 🌱 I’m currently learning Microservices Java
+- 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/betülsari/)
+- ⚡ You can also read about my works :  https://medium.com/@betulsari_97
 
