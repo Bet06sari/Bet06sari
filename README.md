@@ -17,3 +17,29 @@
 <a href="https://www.instagram.com/betulsari06/" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116333770-b702f480-a7dc-11eb-8654-0378659e4719.png" width="55px" width="40" height="40"></img></a>
 <a href="https://medium.com/@betulsari_97" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcBv5TDSvKQ3cNaabIo74RoHjszQOQraWkCltivNIzelpt8mnVH6TvHB74jM9kmFfHweI&usqp=CAU" width="55px" width="40" height="40"></img></a>
 <a href="mailto:betulsari_97@hotmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171180-f237f180-a710-11eb-9aea-560e6d4490b7.png" width="55px" width="40" height="40"></img></a>
+
+
+
+
+
+  <a href="https://github.com/Bet06sari" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betu06sari&layout=compact&show_icons=true&theme=dracula">
+  </a>
+  
+<p align="center">
+  <p>
+    <a href="https://github.com/Bet06sari" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=Bet06sari&count_private=true&show_icons=true&theme=dracula">
+      </a>
+</p>
+  <p>
+  <a href="https://github.com/Bet06sari" target="_blank">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Bet06sari&theme=dracula&date_format=j%20M%5B%20Y%5D" />
+  </a>
+  </p>
+
+
+  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ElifNidaKarakas&theme=github)](https://github.com/ElifNidaKarakas)
+</div>
