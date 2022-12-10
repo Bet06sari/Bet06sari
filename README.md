@@ -21,10 +21,7 @@
 
 
 
-
-  <a href="https://github.com/Bet06sari" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betu06sari&layout=compact&show_icons=true&theme=dracula">
-  </a>
+  
   
 <p align="center">
   <p>
@@ -32,6 +29,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Bet06sari&count_private=true&show_icons=true&theme=dracula">
       </a>
 </p>
+<p>
+<a href="https://github.com/Bet06sari" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Betu06sari&layout=compact&show_icons=true&theme=dracula">
+  </a>
+ </p>
   <p>
   <a href="https://github.com/Bet06sari" target="_blank">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Bet06sari&theme=dracula&date_format=j%20M%5B%20Y%5D" />
@@ -41,5 +43,5 @@
 
   
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ElifNidaKarakas&theme=github)](https://github.com/ElifNidaKarakas)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bet06sari&theme=github)](https://github.com/Bet06sari)
 </div>
