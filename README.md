@@ -31,9 +31,3 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Bet06sari&theme=dracula&date_format=j%20M%5B%20Y%5D" />
   </a>
   </p>
-
-
-  
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bet06sari&theme=github)](https://github.com/Bet06sari)
-</div>
