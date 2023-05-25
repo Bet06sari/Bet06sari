@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on backend
-- 🌱 I’m currently learning Selenium and Beautifulsoup with Pyton
+- 🌱 I’m currently learning Javascript and Web Developing
 - ⚡ You can also read about my works :  https://medium.com/@betulsari_97
 
 <h3 align="left">Languages and Tools:</h3>
