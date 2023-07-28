@@ -31,3 +31,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Bet06sari&theme=dracula&date_format=j%20M%5B%20Y%5D" />
   </a>
   </p>
+
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
