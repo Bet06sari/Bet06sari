@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on backend
+- 🔭 I’m currently working on backend - frontend (nodejs - nextjs)
 - 🌱 I’m currently learning Javascript and Web Developing
 - ⚡ You can also read about my works :  https://medium.com/@betulsari_97
 
