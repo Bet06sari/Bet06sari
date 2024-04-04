@@ -19,8 +19,6 @@
 <a href="https://medium.com/@betulsari_97" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcBv5TDSvKQ3cNaabIo74RoHjszQOQraWkCltivNIzelpt8mnVH6TvHB74jM9kmFfHweI&usqp=CAU" width="55px" width="40" height="40"></img></a>
 <a href="mailto:betulsari_97@hotmail.com" target="_blank"><img src="https://user-images.githubusercontent.com/61664693/116171180-f237f180-a710-11eb-9aea-560e6d4490b7.png" width="55px" width="40" height="40"></img></a>
 
-
-  
 <p align="center">
   <p>
     <a href="https://github.com/Bet06sari" target="_blank">
